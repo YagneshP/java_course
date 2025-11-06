@@ -23,7 +23,7 @@ public class TestResults {
         } else {
             grade = 'A';
         }
-
+        // this is how do you comment on JAVA
         System.out.println("Your grade is " + grade);
     }
 }
